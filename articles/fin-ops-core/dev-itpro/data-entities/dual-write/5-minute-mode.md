@@ -15,7 +15,7 @@ ms.search.validFrom: 2022-07-31
 
 [!include [banner](../../includes/banner.md)]
 
-When you set up dual-write, you get only a two-minute session time-out window for dual-write sessions. This article explains how to get a five-minute session time-out window. This information is applicable to Dual-write core solution version 10.0.36.0 and later.
+When you set up dual-write, you get only a two-minute session time-out window for dual-write sessions. This article explains how to get a five-minute session time-out window. This information is applicable to Dual-write core solution version 1.0.36 and later.
 
 The steps that you must complete vary, depending on the type of environment.
 
